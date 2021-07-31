@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/SignIN.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/SeeBorrowedBooksForm.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/models/Reader.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/models/Book.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/AdminDashboard.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/DbProvider.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/ReadersDashboard.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/UpdateProfile.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/SignUp.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/ShowAllBooks.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/BorrowBookForm.java</file>
+            <file>file:/G:/Netbeans%20Project/LibraryManagement/src/librarymanagement/AddBook.java</file>
+        </group>
+    </open-files>
+</project-private>
